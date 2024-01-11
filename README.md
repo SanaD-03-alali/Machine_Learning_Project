@@ -1,14 +1,6 @@
 Description:
 This project includes classification and time series prediction using various machine learning models.
 
-Table of Contents:
-
-Datasets
-Classification
-Time Series Prediction
-Results
-
-
 
 Datasets:
 
