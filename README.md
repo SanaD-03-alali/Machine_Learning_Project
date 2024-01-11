@@ -14,9 +14,9 @@ https://www.kaggle.com/datasets/faisaljanjua0555/daily-gold-price-historical-dat
 # Classification
 Models:
 
-SVM
-Gradient Boosting Classifier
-MLP
+## SVM
+## Gradient Boosting Classifier
+## MLP
 
 
 # Time Series Prediction
