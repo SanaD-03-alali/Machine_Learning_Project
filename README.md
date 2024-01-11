@@ -1,8 +1,8 @@
-Description:
+**Description:**
 This project includes classification and time series prediction using various machine learning models.
 
 
-Datasets:
+**Datasets:**
 
 car_evaluation.csv
 https://www.kaggle.com/datasets/elikplim/car-evaluation-data-set
@@ -11,7 +11,7 @@ gold.csv
 https://www.kaggle.com/datasets/faisaljanjua0555/daily-gold-price-historical-dataset
 
 
-Classification
+**Classification**
 Models:
 
 SVM
@@ -19,7 +19,7 @@ Gradient Boosting Classifier
 MLP
 
 
-Time Series Prediction
+**Time Series Prediction**
 
 Models:
 
@@ -28,7 +28,7 @@ BiLSTM
 Echo State Network
 
 
-Results
+**Results**
 Key Findings
 1. LSTM and BiLSTM
 Both models achieved reasonable accuracy with a single-layer architecture.
