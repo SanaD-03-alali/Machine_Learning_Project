@@ -23,9 +23,9 @@ Models:
 
 Models:
 
-LSTM
-BiLSTM
-Echo State Network
+### LSTM
+### BiLSTM
+### Echo State Network
 
 
 # Results
