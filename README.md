@@ -32,7 +32,7 @@ Models:
 ## Key Findings
 # 1. LSTM and BiLSTM
 ### Both models achieved reasonable accuracy with a single-layer architecture.
-### LSTM achieved a training accuracy of 0.0013, while BiLSTM achieved a slightly higher training accuracy of 0.0014.
+### LSTM achieved a loss of 0.0013, while BiLSTM achieved a slightly higher loss of 0.0014.
 ### However, BiLSTM had lower loss of 0.0024, while LSTM had 0.0045.
 
 # 2. Echo State Network (ESN)
