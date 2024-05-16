@@ -37,7 +37,7 @@ This repository contains the code and results for a machine learning project tha
 
 ### Results:
 1. **LSTM and BiLSTM**
-   - LSTM achieved a loss of 0.0013, while BiLSTM achieved a slightly higher loss of 0.0014 on the single-layer architecture.
+   - LSTM achieved a loss of 0.0013, while BiLSTM achieved a slightly higher loss of 0.0014
    - In another comparison, BiLSTM had a loss of 0.0024, while LSTM had a higher loss of 0.0045.
 
 2. **Echo State Network (ESN)**
@@ -58,21 +58,3 @@ This repository contains the code and results for a machine learning project tha
 ## Conclusion
 
 This project showcases the effectiveness of different machine learning models for both classification and time series prediction tasks. The high accuracy and low loss values obtained demonstrate the potential of these models in practical applications.
-
-## Repository Structure
-
-- `datasets/`: Contains the datasets used in the project.
-- `classification/`: Code and results for classification models.
-- `time_series_prediction/`: Code and results for time series prediction models.
-- `results/`: Consolidated results and key findings.
-
-For detailed implementation and further information, refer to the respective directories and files within this repository.
-
----
-
-Feel free to explore the code and results to understand the methodologies and findings in detail. Contributions and feedback are welcome!
-
----
-
-**Author:** [Your Name]  
-**Date:** May 2024
